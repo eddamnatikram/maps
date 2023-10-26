@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="provider_enabled">The provider %s is now enabled</string>
+    <string name="provider_disabled">The provider %s is now disabled</string>
+    <string name="provider_new_status">The provider %1$s has now a new status %2$s</string>
+    <string name="new_location">New Location: Latitude = %.6f, Longitude = %.6f, Altitude = %.2f, Accuracy = %.2f meters</string>
+    <string name="title_activity_google_map">GoogleMapActivity</string>
+</resources>
